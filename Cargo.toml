@@ -1,0 +1,7 @@
+[package]
+name = "rustkov"
+version = "0.1.0"
+authors = ["jonah"]
+
+[dependencies]
+rand = ""
